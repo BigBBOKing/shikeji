@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">时刻记</string>
+
+    <!-- 通知 -->
+    <string name="channel_name">事件提醒</string>
+    <string name="channel_desc">到达设定时间时提醒你记录的事件</string>
+    <string name="notify_default_text">提醒时间到了，点开查看详情</string>
+    <string name="action_snooze">稍后10分钟</string>
+    <string name="action_done">已完成</string>
+
+    <!-- 主页 -->
+    <string name="subtitle_empty">随手记下，到点提醒</string>
+    <string name="subtitle_no_pending">共 %1$d 条记录 · 暂无待提醒事项</string>
+    <string name="subtitle_pending">%1$d 条待提醒 · 最近 %2$s</string>
+    <string name="subtitle_pending_no_time">%1$d 条待提醒</string>
+    <string name="empty_title">还没有记录</string>
+    <string name="empty_desc">记下一件要做的事，到了时间我会提醒你</string>
+    <string name="empty_action">记第一条</string>
+    <string name="fab_add">记录事件</string>
+
+    <string name="status_upcoming">%1$s</string>
+    <string name="status_done">已完成</string>
+    <string name="status_expired">已过期</string>
+    <string name="untitled">未命名事件</string>
+
+    <string name="banner_exact_title">提醒可能不准时</string>
+    <string name="banner_exact_desc">开启「闹钟和提醒」权限后，才能在你设定的那一分钟准时提醒。点此开启</string>
+
+    <!-- 列表操作 -->
+    <string name="menu_edit">编辑</string>
+    <string name="menu_mark_done">标记为已完成</string>
+    <string name="menu_mark_undone">撤销完成</string>
+    <string name="menu_reschedule">重新设定时间</string>
+    <string name="menu_delete">删除</string>
+    <string name="delete_title">删除这条记录？</string>
+    <string name="delete_message">「%1$s」及其提醒会一起删除，无法恢复。</string>
+    <string name="delete_message_short">删除后无法恢复。</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+
+    <!-- 编辑页 -->
+    <string name="new_title">新事件</string>
+    <string name="edit_title">编辑事件</string>
+    <string name="title_label">事件内容</string>
+    <string name="title_hint">例如：给社区孕妇打电话回访</string>
+    <string name="note_label">备注（可选）</string>
+    <string name="note_hint">需要记下的细节</string>
+    <string name="date_label">日期</string>
+    <string name="time_label">时间</string>
+    <string name="repeat_label">重复</string>
+    <string name="repeat_none">不重复</string>
+    <string name="repeat_daily">每天</string>
+    <string name="repeat_weekly">每周</string>
+    <string name="repeat_monthly">每月</string>
+    <string name="save">保存</string>
+    <string name="save_hint">保存后会按设定时间提醒</string>
+    <string name="error_title_required">写点什么再保存吧</string>
+    <string name="past_time">时间已过去</string>
+    <string name="past_time_title">这个时间已经过去了</string>
+    <string name="past_time_message">仍然保存的话，这条只会作为记录留在这里，不会触发提醒。</string>
+    <string name="save_as_record">仍然保存</string>
+    <string name="saved_exact">已设定提醒：%1$s</string>
+    <string name="saved_inexact">已保存：%1$s。注意：系统未授予精确闹钟权限，提醒可能有几分钟偏差</string>
+    <string name="saved_as_record_toast">已作为记录保存</string>
+</resources>

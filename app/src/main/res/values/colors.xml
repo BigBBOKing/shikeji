@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#0F766E</color>
+    <color name="brand_dark">#0B5A54</color>
+    <color name="brand_tint">#E4F1EF</color>
+    <color name="bg">#F7F6F2</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="stroke">#E6E3DC</color>
+    <color name="text_primary">#16211F</color>
+    <color name="text_secondary">#6B7A77</color>
+    <color name="accent">#0F766E</color>
+    <color name="accent_strong">#0B5A54</color>
+    <color name="status_done">#B6C0BD</color>
+    <color name="status_expired">#C2A16B</color>
+    <color name="field_bg">#F2F0EA</color>
+    <color name="white">#FFFFFF</color>
+</resources>
